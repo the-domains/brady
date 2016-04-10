@@ -1,0 +1,28 @@
+name: Brady Tuazon
+favicon: null
+layout_spectrum: 0.7499476501252502
+typography_spectrum: 0.6362299646716565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16655029100365937
+  lightness: 0.06581946485675871
+  saturation: 0.6209984149318188
+  rhythmicContrast: 0.41260478692129254
+purpose: []
