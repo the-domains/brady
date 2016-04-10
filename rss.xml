@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Brady Tuazon]]></title>
         <description><![CDATA[Brady Tuazon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brady/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 20:19:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 20:23:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brady/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb1dd447-dea7-425c-a9fa-dc7b761fff8b.jpg">]]></description>
-            <link>undefinede2041e8f-384e-49db-9eb5-b514cfc5a231/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/256a2eb5-3019-4749-856d-4d3e0228c89a.jpg">]]></description>
+            <link>https://thegrid.ai/brady/e2041e8f-384e-49db-9eb5-b514cfc5a231/index.html</link>
             <guid isPermaLink="false">e2041e8f-384e-49db-9eb5-b514cfc5a231</guid>
-            <pubDate>Sun, 10 Apr 2016 20:19:03 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 20:23:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
