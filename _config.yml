@@ -1,6 +1,6 @@
 name: Brady Tuazon
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.82283
 typography_spectrum: 0.6362299646716565
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9c8062'
     - '#6b3f29'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 0.6209984149318188
-  rhythmicContrast: 0.25
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
